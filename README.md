@@ -39,12 +39,17 @@ Press ctrl + click into the local link like this:
 
 Once you have completed installing the front-end and back-end for the project, the application will work as follows:
 
+* Login page
 ![run-app-1](public/run-app-1.png)
 
+* Login success --> Homepage --> Click workspace
 ![run-app-2](public/run-app-2.png)
 
+* Click board
 ![run-app-3](public/run-app-3.png)
 
+* Board space working with cards and lists
 ![run-app-4](public/run-app-4.png)
 
+* Each card is a task progression that includes features like due dates, sending attachments, creating task lists, taking notes etc...
 ![run-app-5](public/run-app-5.png)

@@ -1,0 +1,5 @@
+export { default as AddMembers} from './AddMembers.vue'
+export { default as CheckList} from './CheckList.vue'
+export { default as DueDate} from './DueDate.vue'
+export { default as Labels} from './Labels.vue'
+export { default as Upload} from './Upload.vue'
